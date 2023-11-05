@@ -26,4 +26,4 @@ Html, css, Javascript, bootstrap (css framework)
 
 #hosted link -
 
-https://pratikshakulkarni7719.github.io/superhero-hunter/
+https://github.com/bhartisahu09/SuperHero-Hunter-.git
